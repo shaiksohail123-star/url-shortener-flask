@@ -22,12 +22,9 @@ You can deploy this project for free using:
 
 # 📸 Project Preview
 
-Add your project screenshot here.
-
-Example:
-
 ```markdown
-![Project Screenshot](2_url_shortener_homepage.png)
+<img width="1920" height="987" alt="2_url_shortener_homepage" src="https://github.com/user-attachments/assets/4989b317-3163-4734-a505-0463493bf09e" />
+
 ```
 
 ---
